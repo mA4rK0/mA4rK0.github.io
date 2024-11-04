@@ -16,6 +16,5 @@ Link : https://icons.getbootstrap.com/
 
 ## Library
 
-Animate On Scroll (AOS)
-
-Link : https://michalsnik.github.io/aos/
+1. Animate On Scroll (AOS), Link : https://michalsnik.github.io/aos/
+2. GreenSock Animation Platform (GSAP), Link : https://gsap.com/
