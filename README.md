@@ -4,4 +4,8 @@ This is my simple front-end website project using HTML, Bootstrap CSS, and JavaS
 
 ## CSS Framework
 
-Bootstrap CSS v5.3.3
+Bootstrap v5.3.3
+
+## Icons
+
+Bootstrap Icons v
