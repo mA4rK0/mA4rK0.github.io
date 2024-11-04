@@ -18,3 +18,4 @@ Link : https://icons.getbootstrap.com/
 
 1. Animate On Scroll (AOS), Link : https://michalsnik.github.io/aos/
 2. GreenSock Animation Platform (GSAP), Link : https://gsap.com/
+3. Vanilla-tilt.js, Link : https://micku7zu.github.io/vanilla-tilt.js/
