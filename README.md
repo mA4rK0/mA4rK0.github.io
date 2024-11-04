@@ -12,5 +12,6 @@ Bootstrap Icons v1.11.3
 
 ## Library
 
-Animate On Scroll (AOS) 
-Link : (https://michalsnik.github.io/aos/)
+Animate On Scroll (AOS),
+
+Link : https://michalsnik.github.io/aos/
