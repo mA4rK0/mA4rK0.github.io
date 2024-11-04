@@ -8,4 +8,4 @@ Bootstrap v5.3.3
 
 ## Icons
 
-Bootstrap Icons v
+Bootstrap Icons v1.11.3
